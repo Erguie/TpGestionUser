@@ -44,7 +44,7 @@ La charte graphique du portfolio est définie comme suit :
 
 **5. Wireframe:**
 Le maquettage du portfolio est définie comme suit :
-![alt text](image-2.png)
+![wireframe](./image-2.png)
 
 
 
@@ -53,7 +53,7 @@ Le maquettage du portfolio est définie comme suit :
 Diagramme:
 
 1. ***USECASE***  
-   ![image](https://github.com/yugmerabtene/ESIEA-FISE-WEB-2024/assets/3670077/69bf9c89-3642-4949-a0cd-19ddcde26f4e)  
+   ![usecase](https://github.com/yugmerabtene/ESIEA-FISE-WEB-2024/assets/3670077/69bf9c89-3642-4949-a0cd-19ddcde26f4e)  
 
 **Explications :**  
 a. **Cas d'utilisation principal : Se Connecter, S'enregistrer et Accéder au Tableau de Bord**
@@ -88,14 +88,14 @@ c. **Cas d'utilisation étendu : Modifier le Profil depuis le Tableau de Bord**
 
 ***2.Diagramme d'activité***  
 a. diagramme d'activité du système dans le cas d'un utilisateur déja enregistré.  
-![image](https://github.com/yugmerabtene/ESIEA-FISE-WEB-2024/assets/3670077/4c00f24f-c965-4ba6-b8ce-1e048217707a)  
+![activité](https://github.com/yugmerabtene/ESIEA-FISE-WEB-2024/assets/3670077/4c00f24f-c965-4ba6-b8ce-1e048217707a)  
 ***3.Diagramme de séquence***  
-![alt text](image-1.png)  
+![séquence](./image-1.png)  
 ***4.Diagramme de flux du système***
-![image](https://github.com/yugmerabtene/ESIEA-FISE-WEB-2024/assets/3670077/bc2c4626-aafd-4bdb-b570-154f4ac6ec87)  
+![flux](https://github.com/yugmerabtene/ESIEA-FISE-WEB-2024/assets/3670077/bc2c4626-aafd-4bdb-b570-154f4ac6ec87)  
   
 ***5.ERD (Entity Relational Diagram)***  
-![image](https://github.com/yugmerabtene/ESIEA-FISE-WEB-2024/assets/3670077/8f382a76-da86-4098-b9ac-d8a67662a633)
+![erd](https://github.com/yugmerabtene/ESIEA-FISE-WEB-2024/assets/3670077/8f382a76-da86-4098-b9ac-d8a67662a633)
 
 
 
