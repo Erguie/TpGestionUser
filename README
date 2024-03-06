@@ -37,19 +37,14 @@ L'arborescence comprendra les sections suivantes :
 
 **4. Charte Graphique:**
 La charte graphique du portfolio est définie comme suit :
-- **Couleurs :** Utilisation des couleurs : #ededed, #333333, #d49625
-- ![image](https://github.com/yugmerabtene/ESIEA-FISE-WEB-2024/assets/3670077/3fe06968-850d-4280-8b75-04857ec26ca5)
+- **Couleurs :** Utilisation des couleurs : #9CB4C8, #61819D, #CFE2F3, #345573, #143048
 
 
 - **Police :** Roboto. https://fonts.google.com/specimen/Roboto
 
 **5. Wireframe:**
 Le maquettage du portfolio est définie comme suit :
-![image](https://github.com/yugmerabtene/ESIEA-FISE-WEB-2024/assets/3670077/17bdcffb-0dd9-4c62-911c-ecd52e2afea9)  
-![image](https://github.com/yugmerabtene/ESIEA-FISE-WEB-2024/assets/3670077/a8048e7a-faec-4a9c-826f-60e6890592a0)  
-![image](https://github.com/yugmerabtene/ESIEA-FISE-WEB-2024/assets/3670077/3d66aa02-5852-4acb-9ab9-70123290d960)  
-![image](https://github.com/yugmerabtene/ESIEA-FISE-WEB-2024/assets/3670077/fcfd72f1-4fe8-4acf-81b3-74f1631a6598)  
-![image](https://github.com/yugmerabtene/ESIEA-FISE-WEB-2024/assets/3670077/6ca76363-00e6-491b-bd1e-21f150963c4b)  
+![alt text](image-2.png)
 
 
 
@@ -95,7 +90,7 @@ c. **Cas d'utilisation étendu : Modifier le Profil depuis le Tableau de Bord**
 a. diagramme d'activité du système dans le cas d'un utilisateur déja enregistré.  
 ![image](https://github.com/yugmerabtene/ESIEA-FISE-WEB-2024/assets/3670077/4c00f24f-c965-4ba6-b8ce-1e048217707a)  
 ***3.Diagramme de séquence***  
-![alt text](image.png)  
+![alt text](image-1.png)  
 ***4.Diagramme de flux du système***
 ![image](https://github.com/yugmerabtene/ESIEA-FISE-WEB-2024/assets/3670077/bc2c4626-aafd-4bdb-b570-154f4ac6ec87)  
   
