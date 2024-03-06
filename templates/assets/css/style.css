@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #143048;
     padding: 10px;
 }
 
@@ -23,7 +23,7 @@ nav ul li {
 
 nav a {
     text-decoration: none;
-    color: #fff;
+    color: #CFE2F3;
 }
 
 main {
@@ -49,20 +49,20 @@ button {
 }
 
 button {
-    background-color: #333;
-    color: #fff;
+    background-color: #143048;
+    color: #CFE2F3;
     cursor: pointer;
 }
 
 .close-button{
-    background-color: rgb(141, 14, 14);
+    background-color: rgb(14, 141, 135);
     width: 180px;
     margin-top: 5%;
 }
 
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #143048;
+    color: #CFE2F3;
     text-align: center;
     padding: 10px; 
     bottom: 0;
